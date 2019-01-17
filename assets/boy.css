@@ -1,0 +1,19 @@
+body{background-color:black;}
+
+
+#container
+{
+    color: orangered;
+    text-align: center;
+    font-size: 25px;
+}
+#bio
+{
+    color: greenyellow;
+    text-align: center;
+    font-size: 50px;
+}
+#foto
+{
+
+}
